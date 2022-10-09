@@ -13,14 +13,6 @@ const options = [
     value: RPC.CONTRACTS,
   },
   {
-    label: 'Shibuya',
-    value: RPC.SHIBUYA,
-  },
-  {
-    label: 'Shiden',
-    value: RPC.SHIDEN,
-  },
-  {
     label: 'Local Node',
     value: RPC.LOCAL,
   },

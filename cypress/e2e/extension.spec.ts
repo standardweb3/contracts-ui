@@ -51,7 +51,6 @@ describe('Signer extension flow on live networks', () => {
         '2. Drip some funds into your account via the faucets of our supported networks.'
       ).should('be.visible');
       cy.contains('Contracts on Rococo').should('be.visible');
-      cy.contains('Shiden / Shibuya').should('be.visible');
     });
   });
 });

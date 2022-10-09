@@ -28,13 +28,6 @@ export function AccountsError() {
       >
         Contracts on Rococo
       </a>{' '}
-      <a
-        rel="noopener noreferrer"
-        target="_blank"
-        href="https://docs.astar.network/integration/testnet-faucet"
-      >
-        Shiden / Shibuya
-      </a>{' '}
     </Error>
   );
 }
